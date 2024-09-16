@@ -52,7 +52,7 @@ Model Değerlendirme: Modellerin tahmin performanslarının karşılaştırılma
 Görselleştirme: Tahmin sonuçlarının grafiksel olarak gösterilmesi.
 Sonuçların Analizi: Tahmin edilen değerlerin gerçek değerlerle karşılaştırılması. 
 
-###Sonuçlar
+### Sonuçlar
 SARIMA ve Triple Exponential Smoothing yöntemleri kullanılarak yapılan tahminlerde belirli bir dönem için gaz tüketiminde doğruluğu yüksek sonuçlar elde edilmiştir.
 Her iki model de sezonsal yapıları yakalamada başarılı olmuş, ancak uzun vadeli tahminlerde SARIMA modeli biraz daha etkili bulunmuştur.
 Grafik ve görselleri proje içerisinde bulabilirsiniz.
