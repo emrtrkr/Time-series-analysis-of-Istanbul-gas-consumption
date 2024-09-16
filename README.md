@@ -40,3 +40,19 @@ Sonuçlar
 SARIMA ve Triple Exponential Smoothing yöntemleri kullanılarak yapılan tahminlerde belirli bir dönem için gaz tüketiminde doğruluğu yüksek sonuçlar elde edilmiştir.
 Her iki model de sezonsal yapıları yakalamada başarılı olmuş, ancak uzun vadeli tahminlerde SARIMA modeli biraz daha etkili bulunmuştur.
 Grafik ve görselleri proje içerisinde bulabilirsiniz.
+
+### Projede Kullanılan Adımlar
+Veri Ön İşleme: Verinin temizlenmesi ve zaman serisi analizi için uygun hale getirilmesi.
+Zaman Serisi Analizi: Trend, mevsimsellik ve rastgele bileşenlerin analiz edilmesi.
+
+### Modelleme:
+SARIMA modeli ile tahmin yapılması.
+Triple Exponential Smoothing yöntemi ile tahmin yapılması.
+Model Değerlendirme: Modellerin tahmin performanslarının karşılaştırılması.
+Görselleştirme: Tahmin sonuçlarının grafiksel olarak gösterilmesi.
+Sonuçların Analizi: Tahmin edilen değerlerin gerçek değerlerle karşılaştırılması. 
+
+###Sonuçlar
+SARIMA ve Triple Exponential Smoothing yöntemleri kullanılarak yapılan tahminlerde belirli bir dönem için gaz tüketiminde doğruluğu yüksek sonuçlar elde edilmiştir.
+Her iki model de sezonsal yapıları yakalamada başarılı olmuş, ancak uzun vadeli tahminlerde SARIMA modeli biraz daha etkili bulunmuştur.
+Grafik ve görselleri proje içerisinde bulabilirsiniz.
